@@ -1,1 +1,1 @@
-BlackJack
+This is my first GoLang project. I decided to learn some of the basics by creating a blackjack game.
